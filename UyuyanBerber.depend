@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1590345084 source:c:\users\mehmet ali\desktop\uyuyanberber\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<pthread.h>
+	<semaphore.h>
+
